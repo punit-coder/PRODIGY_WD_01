@@ -1,1 +1,1 @@
-# PRODIGY_WD_01
+This is my first project of responsive landing page-amazon clone. Prodigy Infotech
